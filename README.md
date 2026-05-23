@@ -41,7 +41,7 @@ Hello again 👋
 
 |      |       |
 | :--- | :---: |
-| <img src="https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/latent_space_2d.png" alt="sampled_latent_space" width=390/> | <img src="https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/latent_space_3d.png" alt="sampled_latent_space" width=400/> |
+| <img src="https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/latent_space_2d.png" alt="latent_space_2d" width=390/> | <img src="https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/latent_space_3d.png" alt="latent_space_3d" width=400/> |
 <br>
 
 ## Roadmap 🎌
@@ -51,7 +51,8 @@ Hello again 👋
 <p align='center'><i>This repository is part of a roadmap for understanding Generative Computer Vision</i></p>
 
 ## References 📚
-+ [Autoencoder from scratch in 60 minutes](https://www.youtube.com/watch?v=MLAZu2mRbwk&t=3334s&pp=ygUTYXV0b2VuY29kZXIgdml6dWFyYQ%3D%3D) - by [Vizuara AI Labs](https://vizuara.ai/) 
++ [Autoencoder from scratch in 60 minutes](https://www.youtube.com/watch?v=MLAZu2mRbwk&t=3334s&pp=ygUTYXV0b2VuY29kZXIgdml6dWFyYQ%3D%3D) - by [Vizuara AI Labs](https://vizuara.ai/)
++ [What are Autoencoders?](https://www.youtube.com/watch?v=qiUEgSCyY5o&pp=ygUPYXV0b2VuY29kZXIgaWJt) - by [IBM](https://www.youtube.com/@IBMTechnology)
 + [Intro to Autoencoders](https://www.tensorflow.org/tutorials/generative/autoencoder)
-+ [What is an autoencoder](https://www.ibm.com/think/topics/autoencoder)
+
 
