@@ -1,4 +1,4 @@
-# Standard AutoEncoder from Scratch
+# Standard AutoEncoder
 > _Architecture_
 <center>
 <img src='https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/autoencoder_sketch.png' alt='auto_encoder_sketch' width=800/>
