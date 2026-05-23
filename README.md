@@ -29,7 +29,7 @@ Hello again 👋
 > <img src='https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/Screenshot%202026-05-23%20122448.png' alt='neural_network_structure' width=500/>
 
 + _Training Loss (MSE Loss)_
-> <img src='https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/mse_loss.png' alt='training_loss' width=500 />
+> <img src='https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/mse_loss.png' alt='training_loss' width=650 />
 
 + _Input vs reconstructed input_
 > <img src="https://github.com/Martinmbiro/standard-autoencoder/raw/refs/heads/main/plots/x_vs_x'.png" alt="x vs x'" width=650/>
