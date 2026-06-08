@@ -8,7 +8,7 @@ Hello again 👋
 + An **autoencoder** is a neural‑network architecture that learns to compress _(encode)_ input data into a compact latent representation and then reconstruct _(decode)_ the original data from that representation. Trained with _unsupervised_ **(self‑supervised)** learning, the model’s _ground truth_ is the input itself
 + This project is a step-by-step implementation, training, and analysis of a standard AutoEncoder utilizing [PyTorch](https://pytorch.org/) and [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/)
 + While achieving descent image reconstruction, it is noted that a primary shortcoming of the standard AutoEncoder architecture is that it maps training data to single coordinates in the latent space rather than continuous distributions
-+ Find the notes and annotated code in the Jupyter Notebook. Feel free to open and explore in Google Colab
++ Find the notes and annotated code in the Jupyter Notebook - `01. Standard AutoEncoder.ipynb`. Feel free to open and explore in Google Colab
 
 ## Tools ⚒️
 **The tools used for this repository are:**
